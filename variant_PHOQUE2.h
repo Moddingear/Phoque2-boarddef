@@ -209,7 +209,7 @@
 #endif
 
 // UART Definitions
-#define SERIAL_UART_INSTANCE	0
+#define SERIAL_UART_INSTANCE	3
 
 //LPUART1 on J7
 // Default pin used for 'Serial' instance (ex: ST-Link)
